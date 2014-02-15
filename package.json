@@ -2,8 +2,15 @@
   "name": "grin",
   "title": "grin",
   "id": "jid1-1DJKtcR2J7PHAg",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Donate a portion of Amazon purchases to the Mozilla Foundation",
+  "author": "Lonnen",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.0.1",
+  "preferences": [{
+    "name": "charityCheck",
+    "title": "Charity Check",
+    "description": "Check to ensure Mozilla Foundation is your selected charity",
+    "type": "bool",
+    "value": true
+  }]
 }
