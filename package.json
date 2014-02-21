@@ -11,6 +11,7 @@
     "title": "Charity Check",
     "description": "Check to ensure Mozilla Foundation is your selected charity",
     "type": "bool",
-    "value": true
+    "value": true,
+    "hidden": true
   }]
 }
