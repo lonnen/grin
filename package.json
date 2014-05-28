@@ -5,7 +5,7 @@
   "description": "Donate a portion of Amazon purchases to the Mozilla Foundation",
   "author": "Lonnen",
   "license": "MPL 2.0",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "preferences": [{
     "name": "charityCheck",
     "title": "Charity Check",
