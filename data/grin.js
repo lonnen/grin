@@ -6,11 +6,6 @@
         return;
     }
 
-    // is this an amazon blog?
-    if (window.location.host.contains('blogs')) {
-        return;
-    }
-
     // is this on a non-smile subdomain?
     if (!window.location.host.contains('smile')) {
         var _url = window.location.protocol +
